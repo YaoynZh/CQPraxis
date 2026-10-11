@@ -1,0 +1,9 @@
+name: zyy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip>=23
+  - pip:
+      - -r requirements.txt

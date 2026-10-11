@@ -1,0 +1,3 @@
+# Live API usage goes through requests + certifi.
+requests>=2.31.0
+certifi>=2024.0.0
