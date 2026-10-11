@@ -1,0 +1,22 @@
+{
+  "moderator": {
+    "temperature": 0.2,
+    "max_tokens": 1200,
+    "reasoning_effort": "low"
+  },
+  "cq_expert": {
+    "temperature": 0.3,
+    "max_tokens": 900,
+    "reasoning_effort": "low"
+  },
+  "item_generator": {
+    "temperature": 0.6,
+    "max_tokens": 2600,
+    "reasoning_effort": "low"
+  },
+  "validator": {
+    "temperature": 0.0,
+    "max_tokens": 1200,
+    "reasoning_effort": "low"
+  }
+}

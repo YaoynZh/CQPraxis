@@ -1,0 +1,7 @@
+{
+  "target_total_items": 300,
+  "allow_task_types": ["A", "B", "C"],
+  "allow_cq_tags": ["metacognitive", "cognitive", "motivational", "behavioural"],
+  "default_max_retries": 6,
+  "max_quality_attempts": 8
+}
